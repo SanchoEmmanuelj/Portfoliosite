@@ -1,0 +1,26 @@
+# Netlify Configuration for Static Portfolio
+# No build process needed - just serve static files
+
+[build]
+  # No build command - serve files as-is
+  command = ""
+  # Publish directory (root of your portfolio)
+  publish = "."
+
+# Redirect rules (optional - keeps clean URLs)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Cache settings
+[build.environment]
+  SKIP_BUILD = "true"
+
+# Headers for security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
