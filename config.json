@@ -1,0 +1,197 @@
+{
+  "profile": {
+    "name": "Jongwo Sancho Emmanuel",
+    "title": "Finance Professional | Analysis & Valuation | Strategic Decision-Making",
+    "email": "sanchoemmanuelj@gmail.com",
+    "linkedin": "https://linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourprofile",
+    "location": "Aalborg, Denmark",
+    "cv": "Emmanuel_Sancho_CV.pdf",
+    "about": "Finance professional with expertise in financial analysis, business valuation, and data-driven decision making. Proven ability to translate complex financial information into strategic recommendations. 3+ years of direct financial control experience."
+  },
+
+  "highlights": [
+    {
+      "title": "Financial Analysis",
+      "description": "Analyze financial data to identify trends, assess performance, and support business decisions."
+    },
+    {
+      "title": "Business Valuation",
+      "description": "Evaluate companies and investments to determine fair value and recommend action."
+    },
+    {
+      "title": "Financial Control",
+      "description": "Maintain accuracy, reconcile accounts, and ensure compliance with audit standards."
+    }
+  ],
+
+  "skills": [
+    {
+      "category": "Financial Analysis",
+      "items": [
+        "Financial data analysis and interpretation",
+        "Performance assessment and comparison",
+        "Trend analysis and forecasting",
+        "Ratio analysis and financial metrics"
+      ]
+    },
+    {
+      "category": "Business Valuation",
+      "items": [
+        "Business assessment and valuation",
+        "Investment analysis and recommendations",
+        "Competitive analysis",
+        "Risk assessment"
+      ]
+    },
+    {
+      "category": "Financial Control",
+      "items": [
+        "Reconciliation and account verification",
+        "Cost tracking and analysis",
+        "Audit preparation and compliance",
+        "Financial close and reporting"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Excel (advanced modeling)",
+        "ERP systems (SAP, Business Central)",
+        "R programming",
+        "Financial reporting"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "title": "Financial Data Analysis: 22,000 Market Events",
+      "category": "Data Analysis",
+      "description": "Analyzed 22,000+ financial records to understand market patterns and build decision-support model.",
+      "details": "Worked with large dataset of 22,000+ financial events to identify factors that influence market performance. Validated data quality and accuracy. Built analytical model to test how different market factors drive returns. Results identified 5 key factors that influence stock performance. Demonstrates ability to manage large financial datasets and extract insights that support business decisions.",
+      "highlights": [
+        "Processed 22,000+ financial records",
+        "Ensured data quality and accuracy",
+        "Built analytical model",
+        "Identified key performance drivers"
+      ],
+      "skills": ["Data Analysis", "R Programming", "Financial Modeling"]
+    },
+    {
+      "id": 2,
+      "title": "Business Valuation: Merck Pharmaceutical Company",
+      "category": "Valuation",
+      "description": "Comprehensive financial analysis of pharmaceutical company with investment recommendation.",
+      "details": "Conducted detailed review of Merck & Co including financial performance, market position, and business risks. Analyzed company against competitors. Reviewed 3 major business segments. Built financial projections under different business scenarios. Assessed 25+ business risks and opportunities. Generated investment recommendation with supporting financial analysis. Demonstrates ability to synthesize complex business information and provide clear recommendations.",
+      "highlights": [
+        "Reviewed financial health vs. competitors",
+        "Analyzed 3 major business segments",
+        "Built financial scenarios",
+        "Identified and prioritized key risks",
+        "Provided investment recommendation"
+      ],
+      "skills": ["Business Valuation", "Financial Analysis", "Industry Analysis", "Risk Assessment"]
+    },
+    {
+      "id": 3,
+      "title": "Financial Control & Reconciliation",
+      "category": "Financial Control",
+      "description": "18 months managing financial accuracy, reconciliation, and audit readiness.",
+      "details": "Performed monthly reconciliation of accounts and cost tracking. Identified and resolved discrepancies. Maintained audit-ready financial records. Supported external audits and financial close processes. Ensured financial accuracy and compliance.",
+      "highlights": [
+        "18 months accurate reconciliation",
+        "Resolved financial discrepancies",
+        "Maintained audit-ready records",
+        "Supported successful audits"
+      ],
+      "skills": ["Reconciliation", "Financial Accuracy", "Audit Preparation"]
+    },
+    {
+      "id": 4,
+      "title": "Advanced Financial Training",
+      "category": "Professional Development",
+      "description": "Master's-level training in finance, financial analysis, and business decision-making.",
+      "details": "Completed advanced coursework in corporate finance and financial analysis. Developed expertise in financial assessment and strategic recommendations. Applied knowledge to real-world business scenarios.",
+      "highlights": [
+        "Advanced finance coursework",
+        "Financial analysis expertise",
+        "Business decision frameworks",
+        "Real-world application"
+      ],
+      "skills": ["Financial Analysis", "Corporate Finance", "Strategic Thinking"]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Fulfilment Operations",
+      "company": "IKEA Aalborg",
+      "location": "Aalborg, Denmark",
+      "period": "Jun 2025 – Present",
+      "description": "Operations environment while completing advanced financial research."
+    },
+    {
+      "role": "Project Manager",
+      "company": "Everluxe Sarl",
+      "location": "Abidjan, Côte d'Ivoire",
+      "period": "Jul 2023 – Sep 2024",
+      "description": "Led system implementation and process optimization. Managed cross-functional teams."
+    },
+    {
+      "role": "Finance Coordinator",
+      "company": "Versoni Consultancy",
+      "location": "Douala, Cameroon",
+      "period": "Nov 2021 – May 2023",
+      "description": "Financial reconciliation, cost analysis, and audit support for 8-person finance team."
+    },
+    {
+      "role": "Credit Analyst Intern",
+      "company": "Ecobank",
+      "location": "Bamenda, Cameroon",
+      "period": "Jun 2019 – Dec 2019",
+      "description": "Financial analysis supporting credit decisions."
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "MSc Economics & Business Administration (Finance)",
+      "school": "Aalborg University",
+      "location": "Denmark",
+      "year": "Graduating Jun 2026",
+      "highlights": "Thesis: Financial data analysis of market factors. Coursework in Corporate Finance and Financial Analysis."
+    },
+    {
+      "degree": "Diploma, Software Engineering – Cloud Engineering",
+      "school": "AltSchool Africa",
+      "location": "Nigeria",
+      "year": "Mar 2024",
+      "highlights": "Technical foundation in software development."
+    },
+    {
+      "degree": "B.Sc. Economics",
+      "school": "University of Buea",
+      "location": "Cameroon",
+      "year": "Jan 2015",
+      "highlights": "Foundation in economics and finance."
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "Project Management Professional (PMP)",
+      "issuer": "PMI"
+    },
+    {
+      "name": "Scrum Fundamentals Certified (SFC)",
+      "issuer": "Scrum Alliance"
+    }
+  ],
+
+  "contact": {
+    "message": "I'm interested in supporting financial success through analysis and strategic insight. Let's discuss how I can contribute to your organization.",
+    "cta": "Let's talk about how I can add value to your team."
+  }
+}
